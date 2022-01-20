@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+body{
+    background-color: rgb(178, 224, 223);
+}
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    font-size: 80px;
+    font-style: italic;
+    color: yellow;
+
+}
+H2{
+    text-align: center; 
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+
+}
+H3{
+    text-align: center; 
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
+
+
+th {
+    border: 3px solid green;
+    border-radius: 15px 15px 15px 15px;
+    font-family: 'Bebas Neue', cursive;
+    background-color: rgba(92, 189, 187, 1);
+    color: yellow;
+    font-style: italic;
+}
+
+.sonas {
+    border-radius: 15px 15px 0px 0px;
+}
+.apacia {
+    border-radius: 0px 0px 15px 15px
+}
+
+.tag {
+    font-family: 'Roboto Mono';
+    background-color: tomato;
+}
+
+td {
+  border: 3px solid green;
+  padding: 4px;
+  font-weight: bold;
+}
+table {
+    padding-bottom: 50px;
+}
